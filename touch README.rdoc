@@ -1,1 +1,1 @@
-projeto todo list
+Interface do projeto da faculdade de bases tecnologicas (Todo List) com Nodejs, Vuejs e Quasar. 
